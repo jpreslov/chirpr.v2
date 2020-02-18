@@ -12,7 +12,7 @@ class App extends Component {
       chirpArray: [
         { userName: "Thom Y.", message: "I'm a creep haha" },
         { userName: "Richard James", message: "Beep beep boop beep lol" },
-        { userName: "Jahseh", message: ".........." }
+        { userName: "The Killers' lead singer", message: "Comin out of my cage and etc. etc." }
       ]
     };
   }
